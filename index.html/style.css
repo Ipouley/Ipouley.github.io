@@ -1,0 +1,32 @@
+body{
+	font-family: arial;
+	color: #C4C4C4;
+	background-image: url("images/wookie.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+h1 {
+	color: #C4C4C4;
+	font-size: 69px;
+	background: #a7b213;
+	text-align: right;
+}
+
+p{
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	color: #C4C4C4;
+	padding:20px;
+}
+
+a:hover {
+	background: #a7b213;
+}
+
+img {
+	width: :5px;
+}

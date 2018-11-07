@@ -77,3 +77,12 @@ img {
 	width: 100px;
 }
 
+.pub-box {
+	position:sticky;
+	width: 200px;
+	padding: 20px;
+	background-color: red;
+	top: 20px;
+	right:0px;
+}
+
